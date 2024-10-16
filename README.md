@@ -18,12 +18,12 @@ const mySelf = {
       'Python',      
     ],
     frontEndFrameworks: [
+      'ReactJS',
       'Tailwind CSS',
-      'NextJS',
       'Django',
       'Bootstrap'
     ],
-    uiLibrarys: ['ReactJS', 'Knockout.js', 'Radix UI', 'Tailwind'],
+    uiLibrarys: ['ReactJS', 'Tailwind', 'NextUI', 'MaterialUI'],
     frameworks: ['Python Django', 'Django REST', 'NextJS', 'React Native'],
     backendSkills: ['NodeJS', 'Express', 'Prisma', 'Python Django']
   }
