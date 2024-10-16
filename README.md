@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá! Seja bem vindo(a)! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-<!--
-**henriquescf/henriquescf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-siqueira-9ba862186/)](https://www.linkedin.com/in/henrique-siqueira-9ba862186/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquesiqueira.dev@gmail.com)](mailto:henriquesiqueira.dev@gmail.com/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581987959599&text=Olá!)](https://api.whatsapp.com/send?phone=5581987959599&text=Olá!)
+[![GitHub Glayson](https://img.shields.io/github/followers/henriquescf?label=follow&style=social)](https://github.com/henriquescf)
 
-Here are some ideas to get you started:
+### Acesse meu web portfólio: [henriquesiqueiradev.vercel.app](https://henriquesiqueiradev.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias, frameworks e ferramentas
+```
+const mySelf = {
+    graduate: 'Ciência da Computação',
+    typeDeveloper: ['Fullstack'],
+    programmingLanguages: [
+      'Javascript', 
+      'Typescript',    
+      'Python',      
+    ],
+    frontEndFrameworks: [
+      'Tailwind CSS',
+      'NextJS',
+      'Django',
+      'Bootstrap'
+    ],
+    uiLibrarys: ['ReactJS', 'Knockout.js', 'Radix UI', 'Tailwind'],
+    frameworks: ['Python Django', 'Django REST', 'NextJS', 'React Native'],
+    backendSkills: ['NodeJS', 'Express', 'Prisma', 'Python Django']
+  }
+```
+
