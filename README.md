@@ -21,7 +21,8 @@ const mySelf = {
       'ReactJS',
       'Tailwind CSS',
       'Django',
-      'Bootstrap'
+      'Bootstrap',
+      'WordPress'
     ],
     uiLibrarys: ['ReactJS', 'Tailwind', 'NextUI', 'MaterialUI'],
     frameworks: ['Python Django', 'Django REST', 'NextJS', 'React Native'],
