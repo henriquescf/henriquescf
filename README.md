@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquesiqueira.dev@gmail.com)](mailto:henriquesiqueira.dev@gmail.com/)
 [![GitHub Glayson](https://img.shields.io/github/followers/henriquescf?label=follow&style=social)](https://github.com/henriquescf)
 
-### Acesse meu web portfólio: ([henriquesiqueira.dev.br])
+### Acesse meu web portfólio: [(henriquesiqueira.dev.br)]
 
 ## Tecnologias, frameworks e ferramentas
 ```
